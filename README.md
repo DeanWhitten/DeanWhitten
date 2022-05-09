@@ -1,16 +1,15 @@
-### Hi there 👋
+## 🚀 About Me
+I am a Full Stack Java Engineer @ Genspark and a Software Development Student @ WGU.
 
-<!--
-**DeanWhitten/DeanWhitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a hungry learner with an appitite for new problems to solve and an itch to deliver eligant inovative solutions. I enjoy collaberating with others, exploring new things, and working to improve my craft. I enjoy the challange of constant self improvement in all aspects of life.
 
-Here are some ideas to get you started:
+>  play hard, work harder.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hobbies & Intrests :** coding, reading, playing games, traveling, and fitness
+
+## 🛠 Skills & Tools
+**Tools:**
+Java, Javascript, Android SDK, JavaFX, Spring, Hibernate, Spring Boot, React.JS, SQL, MySQL, MySQL Workbench, SQL Server Express, HTML5, CSS3, SCSS/SASS, AWS, Netlify.
+
+## 🔍Find Me
+ Dean Whitten on [LinkedIn](https://www.linkedin.com/in/deanwhitten/ "Dean Whitten on LinkedIn")
