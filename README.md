@@ -8,7 +8,6 @@ I am a hungry learner with an appitite for new problems to solve and an itch to 
 **Hobbies & Intrests :** coding, reading, playing games, traveling, and fitness
 
 ## 🛠 Skills & Tools
-**Tools:**
 Java, Javascript, Android SDK, JavaFX, Spring, Hibernate, Spring Boot, React.JS, SQL, MySQL, MySQL Workbench, SQL Server Express, HTML5, CSS3, SCSS/SASS, AWS, Netlify.
 
 ## 🔍Find Me
