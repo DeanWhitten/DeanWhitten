@@ -1,5 +1,5 @@
 ## 🚀 About Me
-I am a Full Stack Java Engineer @ Genspark and a Software Development Student @ WGU.
+I am a Full Stack Engineer and a Software Development Student @ WGU.
 
 I am a hungry learner with an appitite for new problems to solve and an itch to deliver eligant inovative solutions. I enjoy collaberating with others, exploring new things, and working to improve my craft. I enjoy the challange of constant self improvement in all aspects of life.
 
